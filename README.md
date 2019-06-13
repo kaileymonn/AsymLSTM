@@ -33,3 +33,5 @@ For additional or different configurations, please refer to .config.py
 3. Training logs and test/validation results will be dumped into the .exp/ folder, which will be created automatically the first time you run the above command.
 
 4. Feel free to email kaileymon@gmail.com if you have questions, thanks! 
+
+Special thanks to @memray, co-author of Deep Keyphrase Generation for open-sourcing CopyRNN's base code
